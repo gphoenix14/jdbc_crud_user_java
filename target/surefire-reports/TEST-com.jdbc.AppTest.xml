@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.jdbc.AppTest" time="0.018" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.jdbc.AppTest" time="0.017" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="21"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\CRUD con JDBC\crud-jdbc-test\target\test-classes;C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\CRUD con JDBC\crud-jdbc-test\target\classes;C:\Users\giuse\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\giuse\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;C:\Users\giuse\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar;"/>
+    <property name="java.class.path" value="C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\jdbc crud user 3\jdbc-crud\target\test-classes;C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\jdbc crud user 3\jdbc-crud\target\classes;C:\Users\giuse\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\giuse\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;C:\Users\giuse\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar;"/>
     <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -16,9 +16,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Adoptium\jdk-21.0.2.13-hotspot\bin"/>
-    <property name="sun.java.command" value="C:\Users\giuse\AppData\Local\Temp\surefire11317028123873111680\surefirebooter-20240523141930259_3.jar C:\Users\giuse\AppData\Local\Temp\surefire11317028123873111680 2024-05-23T14-19-30_154-jvmRun1 surefire-20240523141930259_1tmp surefire_0-20240523141930259_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\giuse\AppData\Local\Temp\surefire16355450771243177629\surefirebooter-20240524090950519_3.jar C:\Users\giuse\AppData\Local\Temp\surefire16355450771243177629 2024-05-24T09-09-50_442-jvmRun1 surefire-20240524090950519_1tmp surefire_0-20240524090950519_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\CRUD con JDBC\crud-jdbc-test\target\test-classes;C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\CRUD con JDBC\crud-jdbc-test\target\classes;C:\Users\giuse\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\giuse\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;C:\Users\giuse\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\jdbc crud user 3\jdbc-crud\target\test-classes;C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\jdbc crud user 3\jdbc-crud\target\classes;C:\Users\giuse\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\giuse\.m2\repository\com\mysql\mysql-connector-j\8.0.33\mysql-connector-j-8.0.33.jar;C:\Users\giuse\.m2\repository\com\google\protobuf\protobuf-java\3.21.9\protobuf-java-3.21.9.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\giuse"/>
     <property name="user.language" value="en"/>
@@ -26,12 +26,12 @@
     <property name="java.version.date" value="2024-01-16"/>
     <property name="java.home" value="C:\Program Files\Eclipse Adoptium\jdk-21.0.2.13-hotspot"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\CRUD con JDBC\crud-jdbc-test"/>
+    <property name="basedir" value="C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\jdbc crud user 3\jdbc-crud"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\giuse\AppData\Local\Temp\surefire11317028123873111680\surefirebooter-20240523141930259_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\giuse\AppData\Local\Temp\surefire16355450771243177629\surefirebooter-20240524090950519_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="21.0.2+13-LTS"/>
@@ -47,7 +47,7 @@
     <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
     <property name="java.io.tmpdir" value="C:\Users\giuse\AppData\Local\Temp\"/>
     <property name="java.version" value="21.0.2"/>
-    <property name="user.dir" value="C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\CRUD con JDBC\crud-jdbc-test"/>
+    <property name="user.dir" value="C:\Users\giuse\Phoenix Networking Academy\Data Management - Documents\Progetti\Java\jdbc crud user 3\jdbc-crud"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="user.language.format" value="it"/>
@@ -61,5 +61,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="65.0"/>
   </properties>
-  <testcase name="testApp" classname="com.jdbc.AppTest" time="0.002"/>
+  <testcase name="testApp" classname="com.jdbc.AppTest" time="0.003"/>
 </testsuite>
